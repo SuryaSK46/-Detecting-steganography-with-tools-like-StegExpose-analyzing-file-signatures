@@ -1,4 +1,4 @@
-# Detecting-steganography-with-tools-like-StegExpose-analyzing-file-signatures
+[[# Detecting-steganography-with-tools-like-StegExpose-analyzing-file-signatures
 ## AIM:
 To detect hidden data using steganography detection tools like StegExpose and analyze file signatures for authenticity and manipulation.
 ## Requirements:
@@ -49,3 +49,4 @@ List of Images with Steganography Detection Scores and File Signature Details
 
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
+](https://github.com/SuryaSK46/Using-tools-like-John-the-Ripper-for-password-cracking-.git)](https://github.com/SuryaSK46/Using-tools-like-John-the-Ripper-for-password-cracking-.git)
